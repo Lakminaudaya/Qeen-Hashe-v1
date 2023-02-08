@@ -35,9 +35,9 @@ https://wa.me/+94770075694
 
 1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-4. Deploy Koyeb [DEPLOY KOYEB]
+4. Deploy Koyeb
 
-[![Deploy to Koyeb] https://app.koyeb.com/deploy?...
+(https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
 
 2. You will get a long text that needs after Frist step (session.json)
 
