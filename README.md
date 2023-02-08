@@ -35,9 +35,17 @@ https://wa.me/+94770075694
 
 1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-4. Deploy Koyeb
+4. Deploy To Railway 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/oJsIMU?referralCode=JJtR18)
+
+## ADD VIARBLE 
+
+FOOTER // 🇱🇰°|Qᴇᴇɴ හෂී,හ්|°🇱🇰
+CAPTION // By 🇱🇰°|Qᴇᴇɴ හෂී,හ්|°🇱🇰
+ONLY_GROUP // true or false
+SESSION_ID // Your Sessions
+PORT // 8000
 
 2. You will get a long text that needs after Frist step (session.json)
 
