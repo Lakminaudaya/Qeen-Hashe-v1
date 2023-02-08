@@ -12,7 +12,6 @@ Sri Lankan Best WhatsApp Bot🇱🇰❤️ Deploy Is esy And Fast🇱🇰❤️
 SCROLL DOWN
 
 ## Deploy Link Template 
-
 ```LAKIYA OFFICIAL DEPLOY BOT SCROLL DOWN
 
 
