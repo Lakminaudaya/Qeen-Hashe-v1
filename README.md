@@ -37,7 +37,7 @@ https://wa.me/+94770075694
 
 4. Deploy Koyeb [DEPLOY KOYEB]
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)PTION%5D=*By%20DARK-NA-MD*&env%5BONLY_GROUP%5D=false&env%5BSESSION_ID%5D&env%5BPORT%5D=8000&ports=8000)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]
 
 2. You will get a long text that needs after Frist step (session.json)
 
