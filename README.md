@@ -37,7 +37,7 @@ https://wa.me/+94770075694
 
 4. Deploy Koyeb
 
-(https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
 
 2. You will get a long text that needs after Frist step (session.json)
 
