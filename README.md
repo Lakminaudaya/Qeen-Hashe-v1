@@ -31,7 +31,7 @@ https://wa.me/+94770075694
 ## STEPS
 <br>
 
-1. Click [SCAN](https://QUEEN-ELISA-MD-V3.mrnima.repl.co)
+1. Click [SCAN](https://astro-qr.herokuapp.com/)
 
 1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
